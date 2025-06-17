@@ -1,3 +1,3 @@
-I am proud to present my latest Excel Dashboard project, which showcases dynamic data visualization and key insights. This project was completed as part of the Data Management using Excel course at the University of Massachusetts Amherst.
+I am proud to present my latest Excel Dashboard project, which showcases best state to live in the USA using dynamic data visualization and key insights. This project was completed as part of the Data Management using Excel course at the University of Massachusetts Amherst.
 
 I utilized XLookup for efficient data retrieval and employed Pivot Tables, Pivot Charts, and Power Pivot to connect and analyze multiple data tables. Power Query was essential for cleaning data linking large datasets and performing operations, such as finding, splitting, slicing, and joining text which enhanced our data visualization. The dashboard creation process included the implementation of Macros to automate repetitive tasks.
